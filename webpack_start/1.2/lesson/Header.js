@@ -5,6 +5,4 @@ function Header() {
   dom.append(header);
 }
 
-module.exports={
-  Header
- }
+module.exports=Header;

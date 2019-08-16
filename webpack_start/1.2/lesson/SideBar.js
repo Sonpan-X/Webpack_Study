@@ -5,6 +5,4 @@ function SideBar() {
   dom.append(sidebar);
 }
 
-module.exports={
-  SideBar
- }
+module.exports=SideBar;
