@@ -1,0 +1,27 @@
+{
+  "name": "webpack_study",
+  "version": "1.0.0",
+  "description": "* 模块打包工具    ### 起步   ```code   npm install  webpack -D    或者   yarn add webpack  -D   ``` ### 1.loader是什么",
+  "private": "true",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonpan-X/Webpack_Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonpan-X/Webpack_Study/issues"
+  },
+  "homepage": "https://github.com/Sonpan-X/Webpack_Study#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
